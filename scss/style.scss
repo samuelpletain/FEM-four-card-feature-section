@@ -1,0 +1,66 @@
+@import "./variables";
+@import "./mixins";
+@import "./components/hero.scss";
+@import "./components/card.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: $font-size;
+  font-family: $font-family;
+}
+
+body {
+  background-color: $neutral-100;
+}
+
+.container {
+  padding: 5rem 2rem;
+  max-width: 80rem;
+  margin: 0 auto;
+  @include small-breakpoint {
+    padding: 5em 0;
+  }
+  & .hero {
+    margin-bottom: 5rem;
+  }
+
+}
+
+.card-wrapper {
+  @include small-breakpoint {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    column-gap: 2rem;
+  }  
+  & .card {
+    margin-bottom: 1.5rem;
+    @include small-breakpoint {
+      margin-bottom: 0 !important;
+    }
+    &--red {
+      grid-column: 2/3;
+      grid-row: 1/3;
+      @include small-breakpoint {
+        margin-bottom: 2rem !important;
+      }
+    }
+    &--cyan {
+      grid-column: 1/2;
+      grid-row: 2/4;
+    }
+    &--orange {
+      grid-column: 2/3;
+      grid-row: 3/5;
+    }
+    &--blue {
+      grid-column: 3/4;
+      grid-row: 2/4;
+    }
+  }
+}

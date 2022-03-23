@@ -1,0 +1,47 @@
+.card {
+  padding: 2rem;
+  border-top: 5px solid black;
+  border-radius: 5px;
+  background-color: #fff;
+  display: flex;
+  box-shadow: 0 .5rem 10px $neutral-400;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;  
+  &--red {
+    border-color: $primary-red;
+  }
+  &--cyan {
+    border-color: $primary-cyan;
+  }
+  &--blue {
+    border-color: $primary-blue;
+  }
+  &--orange {
+    border-color: $primary-orange;
+  }
+  &__title {
+    font-weight: $font-heavy;
+    font-size: 1.3rem;
+    margin-bottom: .25rem;
+    color: $neutral-900;
+    @include small-breakpoint {
+      font-size: 1.5rem;
+    }
+  }
+  &__content {
+    color: $neutral-400;
+    font-weight: $font-medium;
+    font-size: .9rem;
+    line-height: 1.5rem;
+    margin-bottom: 2rem;
+    @include small-breakpoint {
+      font-size: 1rem;
+      margin-bottom: 3rem;
+    }
+  }
+  &__img {
+    width: 4rem;
+    align-self: flex-end;
+  }
+}

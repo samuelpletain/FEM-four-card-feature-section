@@ -1,0 +1,25 @@
+.hero {
+  text-align: center;
+  &__title{
+    color: $neutral-900;
+    font-size: 1.5rem;
+    font-weight: $font-heavy;
+    margin-bottom: 1rem;
+    @include small-breakpoint {
+      font-size: 2.5rem;
+    }
+    &--thin {
+      font-weight: $font-light;
+      display: block;
+    }
+  }
+  &__subtitle {
+    color: $neutral-400;
+    font-size: 1rem;
+    @include small-breakpoint {
+      max-width: 37rem;
+      margin: auto;
+      font-size: 1.1rem;
+    }
+  }
+}
