@@ -8,6 +8,9 @@
   flex-direction: column;
   justify-content: center;
   position: relative;  
+  @include small-breakpoint {
+    max-height: 252px;
+  }
   &--red {
     border-color: $primary-red;
   }

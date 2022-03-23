@@ -1,4 +1,4 @@
-2955
+2957
 139C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c132924529065555946 0
 104C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\safe-buffer132924529054178154 1
 120C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\utils\src\schema.js132924529066026242 0
@@ -28,7 +28,7 @@
 143C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\caniuse-lite\data\features\css-media-resolution.js132924529073665770 0
 110C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\binary-extensions132924529054955524 1
 127C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\lib\resolveOptions.js132924529070147938 0
-90C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\.gitignore132598011640000000 0
+90C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\.gitignore132925354075447897 0
 164C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\node_modules\lmdb\prebuilds\linux-x64\node.abi72.musl.node132924529077519811 0
 133C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\caniuse-lite\data\features\webworkers.js132924529094595441 0
 118C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\fs\lib\browser.js132924529052756932 0
@@ -45,7 +45,7 @@
 110C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\lmdb\dependencies132924529069467705 1
 107C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\node-gyp-build132924529055070227 1
 116C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\escalade\dist\index.mjs132924529054935542 0
-84C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\dist132925349633736272 1
+84C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\dist132925385003456873 1
 118C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\chokidar\lib\constants.js132924529052108723 0
 166C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md132924529070420543 0
 115C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\immutable\package.json132924529057205967 0
@@ -121,6 +121,7 @@
 152C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj132924529083956407 0
 144C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js132924529082716698 0
 96C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\nan132924529064067262 1
+107C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\dist\index.a968fc1d.css.map132925385003061963 0
 111C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\nullthrows\LICENSE132924529051998744 0
 124C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\caniuse-lite\data\regions\BB.js132924529065545932 0
 111C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\dotenv\lib\main.js132924529055799459 0
@@ -128,7 +129,7 @@
 100C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel132924529026312439 1
 107C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\to-regex-range132924529053358723 1
 133C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\test\PackagerRunner.test.js132924529068274666 0
-106C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\scss\components\_card.scss132925342993321909 0
+106C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\scss\components\_card.scss132925384654882902 0
 111C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\nan\doc\v8_misc.md132924529064027233 0
 148C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\node_modules\@parcel\cache\src\IDBCache.js132924529056011896 0
 118C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\hash\package.json132924529054238208 0
@@ -503,6 +504,7 @@
 144C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\source-map\parcel_sourcemap_node\src\lib.rs132924529067655534 0
 152C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c132924529062651702 0
 107C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\semver\LICENSE132924529050235531 0
+103C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\dist\index.a968fc1d.css132925385002895049 0
 108C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\lmdb\caching.js132924529069816931 0
 150C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\@parcel\core\node_modules\@parcel\workers\src\Profiler.js132924529061204826 0
 112C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\semver\package.json132924529054604091 0
@@ -897,7 +899,7 @@
 151C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi102.musl.node132924529060076728 0
 150C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi83.musl.node132924529064868664 0
 139C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\caniuse-lite\data\features\css-mixblendmode.js132924529074061306 0
-95C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\dist\index.html132925349633672117 0
+95C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\dist\index.html132925385002884300 0
 129C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\caniuse-lite\data\features\jpegxr.js132924529081920573 0
 102C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\lmdb\dict132924529083811196 1
 145C:\Users\Samuel\dev\frontendmentor\1. Beginner\four-card-feature-section-master\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi83.node132924529065555946 0
